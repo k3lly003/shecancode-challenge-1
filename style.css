@@ -217,3 +217,11 @@
   color: #fff;
   border: 0px;
 }
+.footer{
+  margin-top: 10%;
+  background: #909090;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
